@@ -10,12 +10,6 @@
 # have left this option.
 
 import numpy as np
-import pandas as pd
-import csv
-
-
-# In[21]:
-
 
 def nearest_idxf(xval,yval,coords_x,coords_y,return_index):
     
@@ -38,10 +32,3 @@ def nearest_idxf(xval,yval,coords_x,coords_y,return_index):
     idx = np.argmin(dist)
     
     return idx + return_index
-
-
-# In[ ]:
-
-
-
-
