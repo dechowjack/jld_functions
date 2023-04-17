@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 # This is a simple function to calculate RMSE for two equal length datasets aka model data and a truth dataset
 # First input is measured/truth, second is modeled/predicted
 
