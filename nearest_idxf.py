@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[18]:
-
-
 # This function serves to find the closest pixel in a list to the given coordinates. The input to this function are an 
 # column vector of paired Lon/Lat or X/Y coordinates, an X/Lon Value, a Y/Lat Value, and the preferred indexing start 
 # zero or one. I originally wrote this script in MATLAB and still do large amounts of data anlaysis in MATLAB so I
